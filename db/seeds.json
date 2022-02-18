@@ -1,0 +1,54 @@
+[
+	{
+		"title": "Philly",
+		"description":"Cream Cheese and Smoked Salmon" ,
+        "image":"/Users/home/seir-1115/projects/fugo-frontend/src/assets/salmon.jpg", 
+        "price": 5
+	},
+	{
+		"title": "Salmon",
+		"description": "Simple and Delicious Salmon Roll" ,
+        "image": "/Users/home/seir-1115/projects/fugo-frontend/src/assets/plainsalmon.jpg",
+        "price": 5
+	},
+	{
+		"title": "Salmon Set",
+		"description": "Set With Salmon",
+        "image" :"/Users/home/seir-1115/projects/fugo-frontend/src/assets/salmonset.jpg",
+        "price": 8
+	},
+	{
+		"title": "Seaweed",
+		"description": "Beatifully Topped with Marinated Seaweed" ,
+        "image": "/Users/home/seir-1115/projects/fugo-frontend/src/assets/seaweed.jpg",
+        "price": 4
+	},
+	{
+		"title": "Special Set",
+		"description": "Chef Special Plate of Mixed Fish" ,
+        "image":"/Users/home/seir-1115/projects/fugo-frontend/src/assets/specialset.jpg",
+        "price": 10
+	},
+    {
+		"title": "Tuna",
+		"description": "Raw tuna wrapped in sticky rice",
+        "image":"/Users/home/seir-1115/projects/fugo-frontend/src/assets/tuna.jpg",
+        "price": 3
+	},
+     {
+		"title": "Veg",
+		"description": "Vegetarian roll",
+        "image":"/Users/home/seir-1115/projects/fugo-frontend/src/assets/Veg.jpg",
+        "price": 3
+	},
+     {
+		"title": "Veg With Crab",
+		"description": "Pickled Vegetables and Crabmeat",
+        "image":"/Users/home/seir-1115/projects/fugo-frontend/src/assets/Vegcrab.jpg",
+        "price": 4
+	}
+	
+ 
+
+
+]
